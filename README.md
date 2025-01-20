@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, sou a Raíssa 👩‍💻
 
-<!--
-**RaissaBernardo/RaissaBernardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou programadora apaixonada por **back-end** e atualmente estou me aprofundando no mundo do **desenvolvimento de sistemas**. Tenho uma formação técnica em **Desenvolvimento de Sistemas** e estou ingressando no curso superior de **Análise e Desenvolvimento de Sistemas (ADS)** pelo SENAI. 
 
-Here are some ideas to get you started:
+### 👩‍🎓 Formação
+- **Técnico em Desenvolvimento de Sistemas**
+- **Superior em Análise e Desenvolvimento de Sistemas** (Ingressante no SENAI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias que trabalho:
+- **Java** (Minha linguagem favorita!)
+- **JavaScript**
+- **HTML**
+- **Python**
+
+### 🔧 Ferramentas que uso:
+- **IDE**: Visual Studio Code, Eclipse IDE
+- **Banco de Dados**: MySQL
+- **Controle de Versão**: Git, GitHub
+- **Frameworks**: Spring Boot (Java)
+
+### 🚀 O que estou aprendendo:
+Atualmente, estou aprofundando meus conhecimentos em **Java**, **desenvolvimento de APIs** e aprendendo novas tecnologias para aprimorar minhas habilidades em **back-end**. Meu foco está em melhorar o desempenho de sistemas e construir soluções eficientes e escaláveis.
+
+### 📚 Curiosidade:
+- **Adoro ler código em Java**, é a linguagem que mais me fascina, mas também gosto de explorar projetos com **JavaScript**, **Python** e outras linguagens.
+- Sempre estou em busca de novos desafios e aprendizados para aprimorar minhas habilidades técnicas.
+
+- ### 📫 Como me encontrar:
+- [Email](raissaantonia5@gmail.com)
