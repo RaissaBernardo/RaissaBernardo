@@ -25,5 +25,3 @@ Atualmente, estou aprofundando meus conhecimentos em **Java**, **desenvolvimento
 - **Adoro ler código em Java**, é a linguagem que mais me fascina, mas também gosto de explorar projetos com **JavaScript**, **Python** e outras linguagens.
 - Sempre estou em busca de novos desafios e aprendizados para aprimorar minhas habilidades técnicas.
 
-- ### 📫 Como me encontrar:
-- [Email](https://criarmeulink.com.br/u/1737397116)
