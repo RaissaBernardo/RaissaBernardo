@@ -26,4 +26,4 @@ Atualmente, estou aprofundando meus conhecimentos em **Java**, **desenvolvimento
 - Sempre estou em busca de novos desafios e aprendizados para aprimorar minhas habilidades técnicas.
 
 - ### 📫 Como me encontrar:
-- [Email](raissaantonia5@gmail.com)
+- [Email]([raissaantonia5@gmail.com](https://criarmeulink.com.br/u/1737397116))
