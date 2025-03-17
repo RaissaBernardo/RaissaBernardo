@@ -4,7 +4,7 @@ Sou programadora apaixonada por **back-end** e atualmente estou me aprofundando 
 
 ### 👩‍🎓 Formação
 - **Técnico em Desenvolvimento de Sistemas**
-- **Superior em Análise e Desenvolvimento de Sistemas** (Ingressante no SENAI)
+- **Superior em Análise e Desenvolvimento de Sistemas**
 
 ### 💻 Tecnologias que trabalho:
 - **Java** (Minha linguagem favorita!)
