@@ -13,7 +13,7 @@ Sou programadora apaixonada por **back-end** e atualmente estou me aprofundando 
 - **Python**
 
 ### 🔧 Ferramentas que uso:
-- **IDE**: Visual Studio Code, Eclipse IDE
+- **IDE**: Visual Studio Code, Eclipse IDE, Intellij
 - **Banco de Dados**: MySQL
 - **Controle de Versão**: Git, GitHub
 - **Frameworks**: Spring Boot (Java)
