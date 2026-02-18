@@ -2,7 +2,7 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516991263281)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaissaBernardo/RaissaBernardo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/pub/dir/Raissa/Bernardo/br-0-Brasil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://pt.linkedin.com/posts/raissabernardodev_senai-formatura-cursotecnico-activity-7405989036432998400-7f5C)
 
 ---
 
@@ -49,7 +49,7 @@ Acredito que conhecimento foi feito para ser compartilhado. Sempre que desenvolv
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516991263281)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaissaBernardo/RaissaBernardo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/pub/dir/Raissa/Bernardo/br-0-Brasil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://pt.linkedin.com/posts/raissabernardodev_senai-formatura-cursotecnico-activity-7405989036432998400-7f5C)
 
 ---
 
